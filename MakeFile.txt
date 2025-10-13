@@ -1,5 +1,0 @@
-clean:
-	rm *.o
-make:
-	gcc calculator.c -o calculator.o
-	
