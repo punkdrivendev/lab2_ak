@@ -1,4 +1,0 @@
-/home/linuser/Documents/kursova/part2/kursova_part2_working_with_make/build/CMakeFiles/calc.dir
-/home/linuser/Documents/kursova/part2/kursova_part2_working_with_make/build/CMakeFiles/main.dir
-/home/linuser/Documents/kursova/part2/kursova_part2_working_with_make/build/CMakeFiles/edit_cache.dir
-/home/linuser/Documents/kursova/part2/kursova_part2_working_with_make/build/CMakeFiles/rebuild_cache.dir
