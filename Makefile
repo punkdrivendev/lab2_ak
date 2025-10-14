@@ -2,7 +2,7 @@ CC := g++
 CFLAGS := -c -Wall -Iinclude
 
 clean:
-	rm -f *.o *.a && cd build && rm -f * -r * && cd ..
+	rm -f *.o *.a all && cd build && rm -f * -r * && cd ..
 
 all: ui.o libcalc.a
 	$(CC) ui.o libcalc.a -o $@

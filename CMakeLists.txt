@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(calc CXX)
+project(part2)
 
 include_directories(${CMAKE_SOURCE_DIR})
 
